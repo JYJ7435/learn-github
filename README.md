@@ -6,3 +6,5 @@ push 사용하기
 pull 사용하기
 
 push 한번더 사용하기
+
+pull 한번더 사용하기
